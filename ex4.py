@@ -1,4 +1,4 @@
-num = int(input("Digite um número: "))
+num = int(input("Digite a quantidade de numeros da sequencia: "))
 maior50 = 0
 menor100 = 0
 soma = 0
